@@ -1,0 +1,28 @@
+name: Convert and Deploy index.md to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Adjust if you use a different default branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Convert index.md to index.html
+        run: pandoc index.md -o index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .  # The directory containing index.html
