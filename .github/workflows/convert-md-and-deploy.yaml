@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Adjust if you use a different default branch
 
+permissions:
+  contents: write  # Grants write permission to the GITHUB_TOKEN
+
 jobs:
   build:
     runs-on: ubuntu-latest
