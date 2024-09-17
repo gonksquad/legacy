@@ -1,4 +1,4 @@
-name: Convert and Deploy index.md to GitHub Pages
+name: Convert index.md to index.html
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main  # Adjust if you use a different default branch
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,8 +21,8 @@ jobs:
       - name: Convert index.md to index.html
         run: pandoc index.md -o index.html
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .  # The directory containing index.html
+          commit_message: "Auto-generate index.html from index.md"
+          file_pattern: index.html
