@@ -16,10 +16,11 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v3
 
-      - name: Install Pandoc
+      - name: Install Latest Pandoc
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
+          PANDOC_VERSION=3.1.7
+          wget https://github.com/jgm/pandoc/releases/download/$PANDOC_VERSION/pandoc-$PANDOC_VERSION-1-amd64.deb
+          sudo dpkg -i pandoc-$PANDOC_VERSION-1-amd64.deb
 
       - name: Convert index.md to index.html with inline CSS
         run: pandoc index.md -o index.html --standalone --embed-resources --self-contained --css style.css
