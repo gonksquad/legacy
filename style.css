@@ -5,14 +5,18 @@
 body {
   background-color: #121212; /* Dark background */
   color: #ffffff;            /* Light text color */
-  font-family: 'Bebas Neue', sans-serif;
   margin: 0;
   padding: 20px;
+}
+
+p {
+  font-family: 'sans-serif'
 }
 
 /* Customize headings */
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
+  font-family: 'Bebas Neue', sans-serif;
 }
 
 /* Customize links */
