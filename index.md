@@ -15,6 +15,8 @@
 ### Overview
 Our workshop series has four parts, spanning the last week of September and the first three weeks of October. Each part will take place during a Tuesday meeting. Plan for these workshops to span the entire meeting.
 
+**We recommend on taking all courses up to the most advanced course you are qualified to take. For example, if you plan on taking Advanced Series Part II, we recommend on taking Intro Series Part I and II as well as the Advanced Series Part I.**
+
 Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language, but we recommend coming with some form of text-based programming experience. It will cover the extreme basics of programming for FTC, including an overview of the tools used to program an FTC robot and the essential skills required to use these tools. The Part I course will also cover the basics of TeleOp programming in Java.
 
 Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
