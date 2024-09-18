@@ -12,7 +12,14 @@
 - [Series Outline](https://docs.google.com/document/d/1hlqY7KVbKZmHbv7WCP97T-UFN1xL9rFBbYAmcl71cbc/edit)
 
 ## Workshop Series Outline
-### Intro Series (2 hours)
+### Overview
+Our workshop series has four parts, spanning the last week of September and the first three weeks of October. Each part will take place during a Tuesday meeting. Plan for these workshops to span the entire meeting.
+
+Part I is an extremely basic course. It does not require preemptive knowledge of the Java language, but we recommend coming with some form of text-based programming experience. It will cover the extreme basics of programming for FTC, including an overview of the tools used to program an FTC robot and the essential skills required to use these tools. The Part I course will also cover the basics of TeleOp programming in Java.
+
+Part II will cover everything we recommend 
+
+### Intro Series Part I - Tuesday, September 24 2024
 
 - **Introduction to the Intro Series**
 - **What is Block Coding?**
@@ -32,7 +39,7 @@
   - Communicating with the Drive Team for Ease of Motion
   - Setting Motor, CR Servo, and Servo Power & Location
 
-### Intro Series Part II (2 hours)
+### Intro Series Part II - Tuesday, October 1 2024
 
 - **Finding Resources for Advanced Learning**
 - **Trigonometry Algorithm**
@@ -54,15 +61,18 @@
     - Pulling
     - Resolving Merge Conflicts
 
-### Advanced Series (Some CenterStage Specific) (2 hours)
+### Advanced Series Part I - Tuesday, October 8 2024
 
-- **Easy OpenCV Normal Application** (High Emphasis on Learning Intricacies)
+- **EasyOpenCV** (High Emphasis on Learning Intricacies)
   - Mats/Color (Box Division)
-  - Roadrunner
-    - Initial Setup
-    - What is Roadrunner?
-    - Odometry Pods
-    - Downloading Roadrunner Startup from GitHub
-    - Tuning
-    - Fine-Tuning
-    - Trajectories/Other Functions/Uses
+
+### Advanced Series Part II - Tuesday, October 15 2024
+
+- **Roadrunner**
+  - Initial Setup
+  - What is Roadrunner?
+  - Odometry Pods
+  - Downloading Roadrunner Startup from GitHub
+  - Tuning
+  - Fine-Tuning
+  - Trajectories/Other Functions/Uses
