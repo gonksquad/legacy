@@ -1,35 +1,187 @@
 /* Import the Bebas Neue font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-/* Apply general styles */
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
 body {
-  background-color: #121212; /* Dark background */
-  color: #ffffff;            /* Light text color */
-  margin: 0;
-  padding: 20px;
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #f0f0f0;
+    background-color: #121212;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-p {
-  font-family: 'sans-serif'
-}
-
-/* Customize headings */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
-  font-family: 'Bebas Neue', sans-serif;
+    font-weight: 600;
+    margin: 20px 0 10px;
+    color: #f0f0f0;
 }
 
-/* Customize links */
+h1 {
+    font-size: 2.5em;
+    border-bottom: 2px solid #b48608;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 1px solid #b48608;
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-size: 1.75em;
+    color: #b48608;
+}
+
+h4, h5, h6 {
+    color: #d4af37;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+h6 {
+    font-size: 1.1em;
+}
+
+/* Paragraphs */
+p {
+    margin: 10px 0;
+    line-height: 1.8;
+    color: #f0f0f0;
+}
+
+/* Blockquotes */
+blockquote {
+    margin: 20px 0;
+    padding: 10px 20px;
+    border-left: 5px solid #b48608;
+    background-color: #1a1a1a;
+    font-style: italic;
+    color: #d4af37;
+}
+
+/* Code Blocks */
+pre, code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1a1a1a;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #d4af37;
+}
+
+pre {
+    overflow-x: auto;
+    padding: 15px;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    line-height: 1.4;
+}
+
+code {
+    padding: 2px 4px;
+    background-color: #333;
+    border-radius: 4px;
+    color: #f0f0f0;
+}
+
+/* Links */
 a {
-  color: #bb86fc;
-}
-
-a:visited {
-  color: #bb86fc;
+    color: #b48608;
+    text-decoration: none;
 }
 
 a:hover {
-  color: #3700b3;
+    text-decoration: underline;
 }
 
-/* Additional styles as needed */
+/* Lists */
+ul, ol {
+    margin: 10px 0 10px 20px;
+}
+
+li {
+    margin: 5px 0;
+    color: #f0f0f0;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #1a1a1a;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #333;
+    text-align: left;
+    color: #f0f0f0;
+}
+
+th {
+    background-color: #b48608;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #b48608;
+}
+
+/* Horizontal Rules */
+hr {
+    border: none;
+    border-top: 1px solid #b48608;
+    margin: 20px 0;
+}
+
+/* Strong and Emphasis */
+strong {
+    font-weight: bold;
+    color: #d4af37;
+}
+
+em {
+    font-style: italic;
+    color: #b48608;
+}
+
+/* Inline Elements */
+mark {
+    background-color: #b48608;
+    color: #121212;
+}
+
+del {
+    text-decoration: line-through;
+    color: #f0f0f0;
+}
+
+/* Text Alignment */
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
