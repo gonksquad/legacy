@@ -17,7 +17,7 @@ Our workshop series has four parts, spanning the last week of September and the 
 
 Part I is an extremely basic course. It does not require preemptive knowledge of the Java language, but we recommend coming with some form of text-based programming experience. It will cover the extreme basics of programming for FTC, including an overview of the tools used to program an FTC robot and the essential skills required to use these tools. The Part I course will also cover the basics of TeleOp programming in Java.
 
-Part II will cover everything we recommend 
+Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
 
 ### Intro Series Part I - Tuesday, September 24 2024
 
