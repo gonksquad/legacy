@@ -1,4 +1,4 @@
-# 701 Programming Resource Library
+# 701's 2024 Programming Workshop Series
 ## Helpful Links
 ### Team/Club Links
 - [Gonk Squad Github](https://github.com/gonksquad)
