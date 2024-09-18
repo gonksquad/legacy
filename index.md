@@ -23,28 +23,19 @@ Intro Series Part II will cover everything we recommend a freshmen team know for
 
 The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOpenCV - two skills that **SEPARATE REGIONAL TEAMS FROM WORLDS-LEVEL TEAMS. We are eager to teach these skills to anyone who is eager to learn.**
 
-### Intro Series Part I - Tuesday, September 24 2024
+### Intro Series Part I - Tuesday, September 26 2024
 
 - **Introduction to the Intro Series**
 - **What is Block Coding?**
-- **What is OnBot Java?**
-- **What is Android Studio?**
 - **Pros and Cons of Each Tool**
 - **Phones, Driver Hubs, and Electronics**
+- **REV Hardware Client**
 - **Configuration File**
-- **Setting Up Android Studio** (Use if access to a personal laptop)
-  - Download Android Studio
-  - Download FTC SDK Zip
-  - Other GitHub Resources
-- **Teleop**
-  - Driver Control
-  - Analog vs. Digital Inputs
-  - Applying Controls to Specific Actions
-  - Communicating with the Drive Team for Ease of Motion
-  - Setting Motor, CR Servo, and Servo Power & Location
 
-### Intro Series Part II - Tuesday, October 1 2024
+### Intro Series Part II - Tuesday, October 10 2024
 
+- **What is OnBot Java?**
+- **What is Android Studio?**
 - **Finding Resources for Advanced Learning**
 - **Trigonometry Algorithm**
 - **FTC Documentation**
@@ -64,13 +55,23 @@ The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOp
     - Pushing
     - Pulling
     - Resolving Merge Conflicts
+- **Setting Up Android Studio** (Use if access to a personal laptop)
+  - Download Android Studio
+  - Download FTC SDK Zip
+  - Other GitHub Resources
+- **Teleop**
+  - Driver Control
+  - Analog vs. Digital Inputs
+  - Applying Controls to Specific Actions
+  - Communicating with the Drive Team for Ease of Motion
+  - Setting Motor, CR Servo, and Servo Power & Location
 
-### Advanced Series Part I - Tuesday, October 8 2024
+### Advanced Series Part I - Tuesday, October 17 2024
 
 - **EasyOpenCV** (High Emphasis on Learning Intricacies)
   - Mats/Color (Box Division)
 
-### Advanced Series Part II - Tuesday, October 15 2024
+### Advanced Series Part II - Tuesday, October 22 2024
 
 - **Roadrunner**
   - Initial Setup
