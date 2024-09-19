@@ -14,6 +14,8 @@
 
 ## Workshop Series Outline
 ### Why Programming Workshops?
+701’s programmers are running programming workshops in an effort to teach essential skills to all NORTH robotics members.
+
 For Everyone: This opportunity is open to all members of all NK teams, and the skills we will be teaching *don’t just apply to programmers.* **A defining trait of the strongest FTC teams is that their members are all experts in their specific field, but also have intermediate skills in every other aspect of robotics.** Electronics and Programming are arguably the most important skills for *everyone on the team* to have, so we encourage everyone to browse our next five weeks of offerings and pick something that interests you. In particular, we would strongly recommend that as a baseline, **at least two people on each team register for our Intro Part I Workshop**.
 
 Our workshop series has four parts, spanning the last week of September and the first three weeks of October. Each part will take place during a Tuesday or Thursday meeting. **Plan for these workshops to span the entire meeting.**
