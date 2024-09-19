@@ -13,6 +13,13 @@
 - [Series Outline](https://docs.google.com/document/d/1hlqY7KVbKZmHbv7WCP97T-UFN1xL9rFBbYAmcl71cbc/edit)
 
 ## Workshop Series Outline
+### Why Programming Workshops?
+For Everyone: This opportunity is open to all members of all NK teams, and the skills we will be teaching *don’t just apply to programmers.* **A defining trait of the strongest FTC teams is that their members are all experts in their specific field, but also have intermediate skills in every other aspect of robotics.** Electronics and Programming are arguably the most important skills for *everyone on the team* to have, so we encourage everyone to browse our next five weeks of offerings and pick something that interests you. In particular, we would strongly recommend that as a baseline, **at least two people on each team register for our Intro Part I Workshop**.
+
+Our workshop series has four parts, spanning the last week of September and the first three weeks of October. Each part will take place during a Tuesday or Thursday meeting. **Plan for these workshops to span the entire meeting.**
+
+For our Programmers: **All parts of this series are mandatory for all programmers** in NORTH robotics. We understand that the Intro Part I workshop may seem trivial to some of our seasoned programmers, but we would like everyone to attend to keep us all on the same page. *If you are an expert in a topic, we would love for you to help us teach that section.*
+
 ### Overview
 Our workshop series has four parts, spanning the last week of September and the first three weeks of October. Each part will take place during a Tuesday meeting. Plan for these workshops to span the entire meeting.
 
