@@ -23,7 +23,7 @@ jobs:
           sudo dpkg -i pandoc-$PANDOC_VERSION-1-amd64.deb
 
       - name: Convert index.md to index.html with inline CSS
-        run: pandoc index.md -o index.html --standalone --embed-resources --self-contained --css style.css --metadata title="Your Page Title" --include-in-header=header.html
+        run: pandoc index.md -o index.html --standalone --embed-resources --self-contained --css style.css --metadata title="2024 Workshop Series" --include-in-header=head.html
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
