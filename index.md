@@ -120,5 +120,20 @@ The Prerequisites for Intro Part II are necessary for you to be able to follow a
 ### Intro I Workshop
 Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language. It will cover the extreme basics of electronics in FTC, including servo programmers, the REV hardware client, and robot configuration files.
 
+- What is a Control Hub? The "brains" of your robot
+  - Types of commonly used ports on a Control Hub
+    - Motor
+    - Sensor
+    - Servo
+    - Battery and battery jumper
+    - USB-C port for computer
+  - Plug battery into a Control Hub
+- How to connect to the Control Hub? 
+- Driver station
+  - how to connect to the control hub 
+  - How to tell the robot which ports to use? Robot configuration
+-  
+- What is an Expansion Hub? Extra ports for motors
+
 ### Intro II Workshop
 Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover give an overview of the tools used to program an FTC robot and the essential skills required to use these tools. We will also cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
