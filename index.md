@@ -18,36 +18,38 @@ Our workshop series has four parts, spanning the last week of September and the 
 
 **We recommend on taking all courses up to the most advanced course you are qualified to take. For example, if you plan on taking Advanced Series Part II, we recommend on taking Intro Series Part I and II as well as the Advanced Series Part I.**
 
-Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language, but we recommend coming with some form of text-based programming experience. It will cover the extreme basics of programming for FTC, including an overview of the tools used to program an FTC robot and the essential skills required to use these tools. The Part I course will also cover the basics of TeleOp programming in Java.
+Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language. It will cover the extreme basics of electronics in FTC, including servo programmers, the REV hardware client, and robot configuration files.
 
-Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
+Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover give an overview of the tools used to program an FTC robot and the essential skills required to use these tools. We will also cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
 
 The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOpenCV - two skills that **SEPARATE REGIONAL TEAMS FROM WORLDS-LEVEL TEAMS. We are eager to teach these skills to anyone who is eager to learn.**
 
 ### Intro Series Part I - Thursday, September 26 2024
 
-- **Introduction to the Intro Series**
-- **What is Block Coding?**
-- **Pros and Cons of Each Tool**
-- **Phones, Driver Hubs, and Electronics**
-- **REV Hardware Client**
-- **Configuration File**
+- Introduction to the Intro Series
+- Phones, Driver Hubs, and Electronics
+- REV Hardware Client
+- Configuration File
+- Servo Programmers
+- Wiring, with a **special guest**
 
 ### Intro Series Part II - Thursday, October 10 2024
 
-- **What is OnBot Java?**
-- **What is Android Studio?**
-- **Finding Resources for Advanced Learning**
-- **Trigonometry Algorithm**
-- **FTC Documentation**
-- **GM0**
-- **Resources to Learn Java**
-- **Time in FTC (Demonstration)**
-- **Autonomous Mode**
+- What is Block Coding?
+- Pros and Cons of Each Tool
+- What is OnBot Java?
+- What is Android Studio?
+- Finding Resources for Advanced Learning
+- Trigonometry Algorithm
+- FTC Documentation
+- GM0
+- Resources to Learn Java
+- Time in FTC (Demonstration)
+- Autonomous Mode
   - Setting Motor Power (Time-Based)
   - Setting Tick Distance (Encoder-Based)
-- **Basic Java Methods**
-- **Using GitHub for FTC**
+- Basic Java Methods
+- Using GitHub for FTC
   - Git vs. GitHub
   - Explanation of Git and GitHub
   - Cloning the FTC SDK (Remember to wait for the new release)
@@ -56,11 +58,11 @@ The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOp
     - Pushing
     - Pulling
     - Resolving Merge Conflicts
-- **Setting Up Android Studio** (Use if access to a personal laptop)
+- Setting Up Android Studio (Use if access to a personal laptop)
   - Download Android Studio
   - Download FTC SDK Zip
   - Other GitHub Resources
-- **Teleop**
+- Teleop
   - Driver Control
   - Analog vs. Digital Inputs
   - Applying Controls to Specific Actions
@@ -85,7 +87,7 @@ The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOp
 
 ## Specifics
 ### Intro I Workshop
-Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language, but we recommend coming with some form of text-based programming experience. It will cover the extreme basics of programming for FTC, including an overview of the tools used to program an FTC robot and the essential skills required to use these tools. The Part I course will also cover the basics of TeleOp programming in Java.
+Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language. It will cover the extreme basics of electronics in FTC, including servo programmers, the REV hardware client, and robot configuration files.
 
 ### Intro II Workshop
-Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
+Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover give an overview of the tools used to program an FTC robot and the essential skills required to use these tools. We will also cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
