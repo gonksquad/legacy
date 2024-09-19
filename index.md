@@ -127,13 +127,14 @@ Intro Series Part I is an extremely basic course. It does not require preemptive
     - Servo
     - Battery and battery jumper
     - USB-C port for computer
-  - Plug battery into a Control Hub
-- How to connect to the Control Hub? 
+- How to connect to the Control Hub? Wi-Fi/ADB and REV Hardware Client
 - Driver station
-  - how to connect to the control hub 
+  - How to connect to the control hub 
   - How to tell the robot which ports to use? Robot configuration
--  
 - What is an Expansion Hub? Extra ports for motors
+- Why we need to program servos?
+- Servo Limits (get a visual from gobilda or rev)
+- How to use a servo programmer? (resources for usage key)
 
 ### Intro II Workshop
 Intro Series Part II will cover everything we recommend a freshmen team know for their first year with FTC. In this workshop, we will cover give an overview of the tools used to program an FTC robot and the essential skills required to use these tools. We will also cover the basics of TeleOp drive algorithms, basics of programming Autonomous actions, basics of source control, and additional resources that can help you learn programming at this level.
