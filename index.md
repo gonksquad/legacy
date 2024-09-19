@@ -50,7 +50,7 @@ The Prerequisites for Intro Part II are necessary for you to be able to follow a
   - [Github Desktop](https://github.com/apps/desktop)
   - [Git](https://git-scm.com/)
 - *Optional:* explore the following websites
-  - [Game Manual Zero](gm0.org)
+  - [Game Manual Zero](https://gm0.org/)
   - [FTC Docs](https://ftc-docs.firstinspires.org/en/latest/)
   - [FTC Docs: Resources](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html)
 
