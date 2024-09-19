@@ -25,7 +25,7 @@ jobs:
       - name: Convert curriculum.md to curriculum/index.html with inline CSS
         run: |
           mkdir -p curriculum
-          pandoc curriculum.md -o curriculum/index.html --standalone --embed-resources --self-contained --css style.css --metadata title="Intro I Curriculum" --include-in-header=header.html -f markdown+auto_identifiers
+          pandoc curriculum.md -o curriculum/index.html --standalone --embed-resources --self-contained --css style.css --metadata title="Intro I Curriculum" --include-in-header=head.html -f markdown+auto_identifiers
 
       - name: Convert index.md to index.html with inline CSS
         run: pandoc index.md -o index.html --standalone --embed-resources --self-contained --css style.css --metadata title="701 Workshop Series" --include-in-header=head.html
