@@ -7,7 +7,7 @@
 - [SoloLearn](https://www.sololearn.com/en/)
 - [FTC Docs](https://ftc-docs.firstinspires.org/en/latest/) or [FTC Docs: Resources](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html)
 
-### Curriculum planning links for Ronan and Luna
+### Curriculum planning links for Ronan, Luna, and Ms. Shields
 - [Series Outline](https://docs.google.com/document/d/1hlqY7KVbKZmHbv7WCP97T-UFN1xL9rFBbYAmcl71cbc/edit)
 
 ## Workshop Series Outline
