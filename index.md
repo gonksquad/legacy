@@ -58,7 +58,7 @@ The Prerequisites for Intro Part II are necessary for you to be able to follow a
 ### Intro Series Part I - Thursday, September 26 2024
 
 - Introduction to the Intro Series
-- Phones, Driver Hubs, and Electronics
+- Driver Stations, Driver Hubs, and Electronics
 - REV Hardware Client
 - Configuration File
 - Servo Programmers
