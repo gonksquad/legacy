@@ -3,7 +3,7 @@ name: Deploy static content to Pages
 
 on:
   workflow_run:
-    workflows: ["Convert index.md to index.html"]
+    workflows: ["Convert Markdown files to HTML"]
     types:
       - completed
 
