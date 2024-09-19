@@ -4,7 +4,7 @@
 - [NORTH Robotics Canvas Page](https://nksd.instructure.com/courses/9341)
 
 ### Learning to Code
-- [SoloLearn](https://www.sololearn.com/en/learn/courses/java-introduction)
+- [SoloLearn](https://www.sololearn.com/en/)
 - [FTC Docs](https://ftc-docs.firstinspires.org/en/latest/) or [FTC Docs: Resources](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html)
 - [Java Playground](https://dev.java/playground/)
 - [Instructions to run a basic program in the Android Studio terminal](https://chatgpt.com/share/66ec666c-117c-8001-be1c-b507c7336647)
@@ -33,6 +33,28 @@ Intro Series Part II will cover everything we recommend a freshmen team know for
 
 The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOpenCV - two skills that **SEPARATE REGIONAL TEAMS FROM WORLDS-LEVEL TEAMS. We are eager to teach these skills to anyone who is eager to learn.**
 
+## Prerequisites
+A big part of this series is connecting you with the resources you need to grow and develop your programming skills. Don't think of the prerequisites as homework, but as the aforementioned resources. The whole point of this series is for you to learn, and we're telling you that you need to complete the following courses and read the following documentation to be successful in our workshops. Keep these resources in mind so you can use them in the future if you need to remember something, or if a freshman team asks you for help.
+
+### Intro Series Part I
+- Smile
+- Good attitude
+
+### Intro Series Part II
+The Prerequisites for Intro Part II are necessary for you to be able to follow along with this part of the series. If you need help with anything, see Ronan or Luna before 10/10.
+
+- [Sololearn Java Introduction](https://www.sololearn.com/en/learn/courses/java-introduction) - **all modules required**
+- [Sololearn Java Intermediate](https://www.sololearn.com/en/learn/courses/java-intermediate) - **modules 1-2 required**, module 3 is optional but recommended.
+- Personal Laptop, **with the following programs installed**. If you need help getting a laptop or installing apps, see Ronan or Luna **before 10/10**
+  - [Android Studio](https://developer.android.com/studio)
+  - [Github Desktop](https://github.com/apps/desktop)
+  - [Git](https://git-scm.com/)
+- *Optional:* explore the following websites
+  - [Game Manual Zero](gm0.org)
+  - [FTC Docs](https://ftc-docs.firstinspires.org/en/latest/)
+  - [FTC Docs: Resources](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html)
+
+## Topics Covered
 ### Intro Series Part I - Thursday, September 26 2024
 
 - Introduction to the Intro Series
