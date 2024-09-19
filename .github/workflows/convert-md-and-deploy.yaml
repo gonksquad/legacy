@@ -24,19 +24,11 @@ jobs:
 
       - name: Convert curriculum.md to curriculum/index.html with inline CSS
         run: |
-          pandoc curriculum.md -o curriculum.html --standalone --embed-resources --css style.css --metadata title="Intro I Curriculum" --include-in-header=head.html --resource-path=. 
-          
-          # Ensure the curriculum directory exists
           mkdir -p curriculum
-          # Copy curriculum.html into the curriculum directory
-          cp curriculum.html curriculum/
-          # Delete the existing index.html in the curriculum directory
-          rm -f curriculum/index.html
-          # Rename curriculum.html to index.html within the curriculum directory
-          mv curriculum/curriculum.html curriculum/index.html
+          pandoc curriculum.md -o curriculum/index.html --standalone --embed-resources --css style.css --metadata title="Intro I Curriculum" --include-in-header=head.html
 
       - name: Convert index.md to index.html with inline CSS
-        run: pandoc index.md -o index.html --standalone --embed-resources --css style.css --metadata title="701 Workshop Series" --include-in-header=head.html --resource-path=. 
+        run: pandoc index.md -o index.html --standalone --embed-resources --css style.css --metadata title="701 Workshop Series" --include-in-header=head.html
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
