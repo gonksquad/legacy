@@ -22,7 +22,7 @@ Intro Series Part II will cover everything we recommend a freshmen team know for
 
 The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOpenCV - two skills that **SEPARATE REGIONAL TEAMS FROM WORLDS-LEVEL TEAMS. We are eager to teach these skills to anyone who is eager to learn.**
 
-### Intro Series Part I - Tuesday, September 26 2024
+### Intro Series Part I - Thursday, September 26 2024
 
 - **Introduction to the Intro Series**
 - **What is Block Coding?**
@@ -31,7 +31,7 @@ The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOp
 - **REV Hardware Client**
 - **Configuration File**
 
-### Intro Series Part II - Tuesday, October 10 2024
+### Intro Series Part II - Thursday, October 10 2024
 
 - **What is OnBot Java?**
 - **What is Android Studio?**
@@ -65,7 +65,7 @@ The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOp
   - Communicating with the Drive Team for Ease of Motion
   - Setting Motor, CR Servo, and Servo Power & Location
 
-### Advanced Series Part I - Tuesday, October 17 2024
+### Advanced Series Part I - Thursday, October 17 2024
 
 - **EasyOpenCV** (High Emphasis on Learning Intricacies)
   - Mats/Color (Box Division)
