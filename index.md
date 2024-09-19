@@ -4,8 +4,9 @@
 - [NORTH Robotics Canvas Page](https://nksd.instructure.com/courses/9341)
 
 ### Learning to Code
-- [SoloLearn](https://www.sololearn.com/en/)
+- [SoloLearn](https://www.sololearn.com/en/learn/courses/java-introduction)
 - [FTC Docs](https://ftc-docs.firstinspires.org/en/latest/) or [FTC Docs: Resources](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html)
+- [Java Playground](https://dev.java/playground/)
 
 ### Curriculum planning links for Ronan
 - [Series Outline](https://docs.google.com/document/d/1hlqY7KVbKZmHbv7WCP97T-UFN1xL9rFBbYAmcl71cbc/edit)
@@ -80,3 +81,7 @@ The Advanced Series, spanning two meetings, will encompass Roadrunner and EasyOp
   - Tuning
   - Fine-Tuning
   - Trajectories/Other Functions/Uses
+
+## Specifics
+### Intro I Workshop
+Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language, but we recommend coming with some form of text-based programming experience. It will cover the extreme basics of programming for FTC, including an overview of the tools used to program an FTC robot and the essential skills required to use these tools. The Part I course will also cover the basics of TeleOp programming in Java.
