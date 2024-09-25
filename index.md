@@ -110,7 +110,7 @@ The Prerequisites for Intro Part II are necessary for you to be able to follow a
 
 Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language. It will cover the extreme basics of electronics in FTC, including servo programmers, the REV hardware client, and robot configuration files.
 
-- What is a Control Hub? The "brains" of your robot
+- What is a Control Hub? The "brains" of your robot **L**
   - Types of commonly used ports on a Control Hub
     - Motor
     - Sensor
@@ -120,20 +120,19 @@ Intro Series Part I is an extremely basic course. It does not require preemptive
   - **Explain** ports above
   - **Demonstrate** how to connect everything in the kit
   - **Break out** into groups to build their own identical kit
-- How to connect to the Control Hub? Wi-Fi/ADB and REV Hardware Client
+- How to connect to the Control Hub? Wi-Fi/ADB and REV Hardware Client **R**
   - **Explain** REV client
   - **Demonstrate** plugging control hub into laptop
   - **Demonstrate** rev client password reset on screen
   - **Demonstrate** firmware update for control hub and driver hub
   - **Break out** into same groups, have them do this for their own systems
-- Driver station
+- Driver station **L**
   - How to connect to the control hub
   - How to tell the robot which ports to use? Robot configuration
   - **Explain** how the robot config works
   - **Demonstrate** how to set up the configuration using a *camera pointing down at an example hub*
   - **Break out** into their groups to set this up on their "robot"
-- What is an Expansion Hub? Extra ports for motors
-- Why we need to program servos?
+- Why we need to program servos? **R**
   - Servo Limits (get a visual from gobilda or rev)
   - **Explain** how to use a servo programmer? (resources for usage key)
   - **Demonstrate** programming a servo, maybe with the *camera*
