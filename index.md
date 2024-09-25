@@ -133,7 +133,7 @@ Intro Series Part I is an extremely basic course. It does not require preemptive
   - **Demonstrate** how to set up the configuration using a *camera pointing down at an example hub*
   - **Break out** into their groups to set this up on their "robot"
 - Why we need to program servos? **R**
-  - Servo Limits (get a visual from gobilda or rev)
+  - [Servo Limits](https://docs.revrobotics.com/rev-crossover-products/servo/srs#angular-limits)
   - **Explain** how to use a servo programmer? (resources for usage key)
   - **Demonstrate** programming a servo, maybe with the *camera*
   - **Break out** into groups to program their own servos
