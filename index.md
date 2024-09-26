@@ -74,7 +74,7 @@ The Prerequisites for Intro Part II are necessary for you to be able to follow a
 - Configuration File
 - Servo Programmers
 - Charging and Maintanance of Electronics/Batteries
-- Wiring, with a **special guest**
+- Wiring?
 
 ### Intro Series Part II - Thursday, October 10 2024
 
@@ -110,6 +110,16 @@ The Prerequisites for Intro Part II are necessary for you to be able to follow a
 
 Intro Series Part I is an extremely basic course. It does not require preemptive knowledge of the Java language. It will cover the extreme basics of electronics in FTC, including servo programmers, the REV hardware client, and robot configuration files.
 
+- Series Introduction **R**
+  - **Explain** the whole series to get them interested in the other classes
+  - **Explain** the first workshop
+    - Introduction to the Intro Series
+    - Driver Stations, Driver Hubs, and Electronics
+    - REV Hardware Client
+    - Configuration File
+    - Servo Programmers
+    - Charging and Maintanance of Electronics/Batteries
+    - Wiring?
 - What is a Control Hub? The "brains" of your robot **L**
   - Types of commonly used ports on a Control Hub
     - Motor
